@@ -20,6 +20,10 @@ To disable and remove the Storefront Infinite Scroll plugin, simply follow the s
 ## License
 Please review the [LICENSE](LICENSE) file located in the repo.
 
+## Changes
+### v1.0 n(__1/16/2018__)
+- Initial release.
+
 ## Credits
 The Storefront Infinite Scroll plugin was written by Anthony Iacono.
 
