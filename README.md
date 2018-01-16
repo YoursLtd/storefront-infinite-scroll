@@ -26,7 +26,7 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 
 | Description  | Type | Reference |
 | ------------- | ------------- | ------------- |
-| **Initial release**  | Release  | [Download v1.0](https://github.com/YoursLtd/storefront-infinite-scroll/releases/tag/v1.0) |
+| **Initial release**  | **Release**  | [Download v1.0](https://github.com/YoursLtd/storefront-infinite-scroll/releases/tag/v1.0) |
 
 
 ## Credits
