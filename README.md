@@ -23,6 +23,8 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 ## Changes
 ### v1.0 (__1/16/2018__)
 
+[Download](https://github.com/YoursLtd/storefront-infinite-scroll/releases/tag/v1.0)
+
 | Description  | Type | Reference |
 | ------------- | ------------- | ------------- |
 | Initial release  | Feature  | * |
