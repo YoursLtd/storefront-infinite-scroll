@@ -1,6 +1,9 @@
 # Storefront Infinite Scroll
 A simple plugin for [WooCommerce](https://woocommerce.com) that allows the [Storefront](https://wordpress.org/themes/storefront/) theme to have infinite scrolling.
 
+## Why?
+By default, it is not possible to configure infinite scroll behavior that is not click-based (via "Load More"), but automatic on scroll.
+
 ## Contents
 
 The Storefront Infinite Scroll plugin includes the following files:
