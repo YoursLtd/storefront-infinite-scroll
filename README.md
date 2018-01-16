@@ -28,7 +28,7 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 | ------------- | ------------- | ------------- |
 | Initial release  | Feature  | * |
 
-[Download](https://github.com/YoursLtd/storefront-infinite-scroll/releases/tag/v1.0)
+[Download v1.0](https://github.com/YoursLtd/storefront-infinite-scroll/releases/tag/v1.0)
 
 ## Credits
 The Storefront Infinite Scroll plugin was written by Anthony Iacono.
