@@ -12,7 +12,7 @@ The Storefront Infinite Scroll plugin includes the following files:
 * Allows the [Storefront](https://wordpress.org/themes/storefront/) theme to have infinite scrolling.
 
 ## Installation
-The Storefront Infinite Scroll plugin contents should be put in the [Wordpress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `storefront-infinite-scroll`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
+The Storefront Infinite Scroll plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `storefront-infinite-scroll`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
 
 ## Removal
 To disable and remove the Storefront Infinite Scroll plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `storefront-infinite-scroll` directory and all of it's contents.
