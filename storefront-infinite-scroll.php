@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Storefront Infinite Scroll
+Plugin URI: https://github.com/YoursLtd/storefront-infinite-scroll
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com
 Version: 1.0
 Text Domain: storefront-infinite-scroll
 */
